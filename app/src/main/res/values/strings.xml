@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewAndCheckBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_pay">支付</string>
+    <string name="listview_checkbox">ListView+CheckBox</string>
+    <string name="_add">增加</string>
+    <string name="_delete">删除</string>
+    <string name="_allselect">全选</string>
+
+</resources>
